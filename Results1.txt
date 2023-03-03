@@ -1,0 +1,998 @@
+Move 3, Number of available options is: 68.0
+11
+Move 4, Number of available options is: 9.0
+4
+Move 5, Number of available options is: 3.0
+4
+Move 6, Number of available options is: 2.0
+5
+AI won in 6 moves
+2.219480514526367
+Move 1, Number of available options is: 32768.0
+11
+Move 2, Number of available options is: 5432.0
+20
+Move 3, Number of available options is: 1122.0
+30
+Move 4, Number of available options is: 95.0
+21
+Move 5, Number of available options is: 13.0
+22
+Move 6, Number of available options is: 2.0
+4
+Move 7, Number of available options is: 1.0
+5
+AI won in 7 moves
+3.9936294555664062
+Move 1, Number of available options is: 32768.0
+0
+Move 2, Number of available options is: 3125.0
+30
+Move 3, Number of available options is: 286.0
+31
+Move 4, Number of available options is: 13.0
+22
+Move 5, Number of available options is: 1.0
+5
+AI won in 5 moves
+2.637892246246338
+Move 1, Number of available options is: 32768.0
+11
+Move 2, Number of available options is: 5436.0
+20
+Move 3, Number of available options is: 1107.0
+10
+Move 4, Number of available options is: 138.0
+13
+Move 5, Number of available options is: 5.0
+12
+Move 6, Number of available options is: 1.0
+5
+AI won in 6 moves
+3.935194253921509
+Move 1, Number of available options is: 32768.0
+11
+Move 2, Number of available options is: 5432.0
+11
+Move 3, Number of available options is: 892.0
+12
+Move 4, Number of available options is: 46.0
+20
+Move 5, Number of available options is: 7.0
+11
+Move 6, Number of available options is: 2.0
+4
+Move 7, Number of available options is: 1.0
+5
+AI won in 7 moves
+3.468522787094116
+Move 1, Number of available options is: 32768.0
+11
+Move 2, Number of available options is: 5504.0
+20
+Move 3, Number of available options is: 1095.0
+12
+Move 4, Number of available options is: 72.0
+30
+Move 5, Number of available options is: 5.0
+4
+Move 6, Number of available options is: 2.0
+4
+Move 7, Number of available options is: 1.0
+5
+AI won in 7 moves
+4.217823028564453
+Move 1, Number of available options is: 32768.0
+10
+Move 2, Number of available options is: 7105.0
+20
+Move 3, Number of available options is: 1363.0
+22
+Move 4, Number of available options is: 33.0
+30
+Move 5, Number of available options is: 6.0
+32
+Move 6, Number of available options is: 1.0
+5
+AI won in 6 moves
+4.999394655227661
+Move 1, Number of available options is: 32768.0
+31
+Move 2, Number of available options is: 1120.0
+30
+Move 3, Number of available options is: 362.0
+30
+Move 4, Number of available options is: 97.0
+4
+Move 5, Number of available options is: 4.0
+4
+Move 6, Number of available options is: 3.0
+4
+Move 7, Number of available options is: 2.0
+5
+AI won in 7 moves
+1.6086785793304443
+Move 1, Number of available options is: 32768.0
+10
+Move 2, Number of available options is: 2625.0
+21
+Move 3, Number of available options is: 272.0
+21
+Move 4, Number of available options is: 51.0
+13
+Move 5, Number of available options is: 4.0
+5
+AI won in 5 moves
+2.7460501194000244
+Move 1, Number of available options is: 32768.0
+20
+Move 2, Number of available options is: 4962.0
+10
+Move 3, Number of available options is: 886.0
+30
+Move 4, Number of available options is: 92.0
+12
+Move 5, Number of available options is: 8.0
+13
+Move 6, Number of available options is: 1.0
+5
+AI won in 6 moves
+3.598421335220337
+Move 1, Number of available options is: 32768.0
+20
+Move 2, Number of available options is: 7051.0
+31
+Move 3, Number of available options is: 178.0
+21
+Move 4, Number of available options is: 49.0
+13
+Move 5, Number of available options is: 3.0
+4
+Move 6, Number of available options is: 1.0
+5
+AI won in 6 moves
+3.7534220218658447
+Move 1, Number of available options is: 32768.0
+11
+Move 2, Number of available options is: 5504.0
+22
+Move 3, Number of available options is: 91.0
+30
+Move 4, Number of available options is: 17.0
+21
+Move 5, Number of available options is: 7.0
+5
+AI won in 5 moves
+3.413881540298462
+Move 1, Number of available options is: 32768.0
+12
+Move 2, Number of available options is: 1650.0
+11
+Move 3, Number of available options is: 439.0
+11
+Move 4, Number of available options is: 119.0
+31
+Move 5, Number of available options is: 9.0
+5
+AI won in 5 moves
+2.098276138305664
+Move 1, Number of available options is: 32768.0
+2
+Move 2, Number of available options is: 2014.0
+12
+Move 3, Number of available options is: 175.0
+1
+Move 4, Number of available options is: 23.0
+20
+Move 5, Number of available options is: 4.0
+5
+AI won in 5 moves
+1.9218237400054932
+Move 1, Number of available options is: 32768.0
+11
+Move 2, Number of available options is: 5432.0
+0
+Move 3, Number of available options is: 488.0
+2
+Move 4, Number of available options is: 18.0
+12
+Move 5, Number of available options is: 2.0
+13
+Move 6, Number of available options is: 1.0
+5
+AI won in 6 moves
+3.7775118350982666
+Move 1, Number of available options is: 32768.0
+21
+Move 2, Number of available options is: 3510.0
+30
+Move 3, Number of available options is: 571.0
+12
+Move 4, Number of available options is: 58.0
+20
+Move 5, Number of available options is: 8.0
+13
+Move 6, Number of available options is: 2.0
+4
+Move 7, Number of available options is: 1.0
+5
+AI won in 7 moves
+3.1583783626556396
+Move 1, Number of available options is: 32768.0
+40
+Move 2, Number of available options is: 1215.0
+12
+Move 3, Number of available options is: 170.0
+30
+Move 4, Number of available options is: 27.0
+22
+Move 5, Number of available options is: 3.0
+21
+Move 6, Number of available options is: 1.0
+5
+AI won in 6 moves
+1.8318209648132324
+Move 1, Number of available options is: 32768.0
+11
+Move 2, Number of available options is: 5432.0
+21
+Move 3, Number of available options is: 365.0
+20
+Move 4, Number of available options is: 70.0
+13
+Move 5, Number of available options is: 1.0
+5
+AI won in 5 moves
+3.235445022583008
+Move 1, Number of available options is: 32768.0
+1
+Move 2, Number of available options is: 2387.0
+11
+Move 3, Number of available options is: 402.0
+22
+Move 4, Number of available options is: 24.0
+3
+Move 5, Number of available options is: 5.0
+3
+Move 6, Number of available options is: 1.0
+5
+AI won in 6 moves
+1.8529961109161377
+Move 1, Number of available options is: 32768.0
+30
+Move 2, Number of available options is: 3095.0
+11
+Move 3, Number of available options is: 417.0
+1
+Move 4, Number of available options is: 15.0
+11
+Move 5, Number of available options is: 6.0
+21
+Move 6, Number of available options is: 1.0
+5
+AI won in 6 moves
+1.4444141387939453
+Move 1, Number of available options is: 32768.0
+1
+Move 2, Number of available options is: 2387.0
+21
+Move 3, Number of available options is: 233.0
+12
+Move 4, Number of available options is: 31.0
+21
+Move 5, Number of available options is: 5.0
+4
+Move 6, Number of available options is: 1.0
+5
+AI won in 6 moves
+1.9693050384521484
+Move 1, Number of available options is: 32768.0
+10
+Move 2, Number of available options is: 5196.0
+12
+Move 3, Number of available options is: 331.0
+1
+Move 4, Number of available options is: 56.0
+31
+Move 5, Number of available options is: 7.0
+4
+Move 6, Number of available options is: 1.0
+5
+AI won in 6 moves
+3.1034557819366455
+Move 1, Number of available options is: 32768.0
+21
+Move 2, Number of available options is: 2400.0
+21
+Move 3, Number of available options is: 386.0
+31
+Move 4, Number of available options is: 28.0
+30
+Move 5, Number of available options is: 18.0
+21
+Move 6, Number of available options is: 3.0
+5
+AI won in 6 moves
+2.09368896484375
+Move 1, Number of available options is: 32768.0
+10
+Move 2, Number of available options is: 5196.0
+2
+Move 3, Number of available options is: 293.0
+0
+Move 4, Number of available options is: 20.0
+4
+Move 5, Number of available options is: 3.0
+3
+Move 6, Number of available options is: 1.0
+5
+AI won in 6 moves
+3.2827107906341553
+Move 1, Number of available options is: 32768.0
+11
+Move 2, Number of available options is: 4548.0
+31
+Move 3, Number of available options is: 190.0
+30
+Move 4, Number of available options is: 38.0
+3
+Move 5, Number of available options is: 5.0
+4
+Move 6, Number of available options is: 4.0
+13
+Move 7, Number of available options is: 1.0
+5
+AI won in 7 moves
+2.5567989349365234
+Move 1, Number of available options is: 32768.0
+10
+Move 2, Number of available options is: 5196.0
+21
+Move 3, Number of available options is: 717.0
+20
+Move 4, Number of available options is: 151.0
+10
+Move 5, Number of available options is: 24.0
+12
+Move 6, Number of available options is: 7.0
+5
+AI won in 6 moves
+3.4246556758880615
+Move 1, Number of available options is: 32768.0
+11
+Move 2, Number of available options is: 4880.0
+11
+Move 3, Number of available options is: 808.0
+20
+Move 4, Number of available options is: 161.0
+4
+Move 5, Number of available options is: 4.0
+3
+Move 6, Number of available options is: 3.0
+4
+Move 7, Number of available options is: 2.0
+4
+Move 8, Number of available options is: 1.0
+5
+AI won in 8 moves
+3.736380100250244
+Move 1, Number of available options is: 32768.0
+0
+Move 2, Number of available options is: 7776.0
+12
+Move 3, Number of available options is: 630.0
+20
+Move 4, Number of available options is: 52.0
+12
+Move 5, Number of available options is: 9.0
+1
+Move 6, Number of available options is: 2.0
+4
+Move 7, Number of available options is: 1.0
+5
+AI won in 7 moves
+5.574069261550903
+Move 1, Number of available options is: 32768.0
+2
+Move 2, Number of available options is: 1796.0
+21
+Move 3, Number of available options is: 287.0
+11
+Move 4, Number of available options is: 57.0
+30
+Move 5, Number of available options is: 1.0
+5
+AI won in 5 moves
+1.5988738536834717
+Move 1, Number of available options is: 32768.0
+20
+Move 2, Number of available options is: 7070.0
+20
+Move 3, Number of available options is: 1320.0
+11
+Move 4, Number of available options is: 250.0
+12
+Move 5, Number of available options is: 19.0
+2
+Move 6, Number of available options is: 1.0
+5
+AI won in 6 moves
+3.50687313079834
+Move 1, Number of available options is: 32768.0
+40
+Move 2, Number of available options is: 1215.0
+30
+Move 3, Number of available options is: 312.0
+30
+Move 4, Number of available options is: 50.0
+12
+Move 5, Number of available options is: 10.0
+21
+Move 6, Number of available options is: 1.0
+5
+AI won in 6 moves
+1.012754201889038
+Move 1, Number of available options is: 32768.0
+21
+Move 2, Number of available options is: 4680.0
+21
+Move 3, Number of available options is: 485.0
+2
+Move 4, Number of available options is: 16.0
+10
+Move 5, Number of available options is: 2.0
+5
+AI won in 5 moves
+3.1662607192993164
+Move 1, Number of available options is: 32768.0
+10
+Move 2, Number of available options is: 5196.0
+21
+Move 3, Number of available options is: 790.0
+21
+Move 4, Number of available options is: 158.0
+11
+Move 5, Number of available options is: 24.0
+20
+Move 6, Number of available options is: 16.0
+1
+Move 7, Number of available options is: 1.0
+5
+AI won in 7 moves
+3.2823128700256348
+Move 1, Number of available options is: 32768.0
+11
+Move 2, Number of available options is: 4880.0
+21
+Move 3, Number of available options is: 509.0
+30
+Move 4, Number of available options is: 48.0
+11
+Move 5, Number of available options is: 10.0
+5
+AI won in 5 moves
+2.7343454360961914
+Move 1, Number of available options is: 32768.0
+20
+Move 2, Number of available options is: 7051.0
+30
+Move 3, Number of available options is: 1200.0
+12
+Move 4, Number of available options is: 103.0
+20
+Move 5, Number of available options is: 20.0
+11
+Move 6, Number of available options is: 3.0
+22
+Move 7, Number of available options is: 1.0
+5
+AI won in 7 moves
+3.9687588214874268
+Move 1, Number of available options is: 32768.0
+21
+Move 2, Number of available options is: 3510.0
+12
+Move 3, Number of available options is: 247.0
+20
+Move 4, Number of available options is: 25.0
+3
+Move 5, Number of available options is: 2.0
+22
+Move 6, Number of available options is: 1.0
+5
+AI won in 6 moves
+2.5891430377960205
+Move 1, Number of available options is: 32768.0
+1
+Move 2, Number of available options is: 4467.0
+30
+Move 3, Number of available options is: 650.0
+10
+Move 4, Number of available options is: 70.0
+22
+Move 5, Number of available options is: 7.0
+12
+Move 6, Number of available options is: 2.0
+5
+AI won in 6 moves
+2.7510738372802734
+Move 1, Number of available options is: 32768.0
+30
+Move 2, Number of available options is: 3095.0
+40
+Move 3, Number of available options is: 58.0
+31
+Move 4, Number of available options is: 10.0
+4
+Move 5, Number of available options is: 2.0
+4
+Move 6, Number of available options is: 1.0
+5
+AI won in 6 moves
+2.2547318935394287
+Move 1, Number of available options is: 32768.0
+20
+Move 2, Number of available options is: 7051.0
+30
+Move 3, Number of available options is: 670.0
+22
+Move 4, Number of available options is: 32.0
+5
+AI won in 4 moves
+3.7506942749023438
+Move 1, Number of available options is: 32768.0
+1
+Move 2, Number of available options is: 2387.0
+12
+Move 3, Number of available options is: 155.0
+31
+Move 4, Number of available options is: 10.0
+13
+Move 5, Number of available options is: 1.0
+5
+AI won in 5 moves
+1.420588493347168
+Move 1, Number of available options is: 32768.0
+30
+Move 2, Number of available options is: 3095.0
+3
+Move 3, Number of available options is: 100.0
+11
+Move 4, Number of available options is: 14.0
+2
+Move 5, Number of available options is: 2.0
+5
+AI won in 5 moves
+2.333906412124634
+Move 1, Number of available options is: 32768.0
+1
+Move 2, Number of available options is: 1280.0
+21
+Move 3, Number of available options is: 108.0
+30
+Move 4, Number of available options is: 10.0
+3
+Move 5, Number of available options is: 3.0
+5
+AI won in 5 moves
+1.9309568405151367
+Move 1, Number of available options is: 32768.0
+10
+Move 2, Number of available options is: 7926.0
+11
+Move 3, Number of available options is: 1364.0
+40
+Move 4, Number of available options is: 79.0
+4
+Move 5, Number of available options is: 6.0
+4
+Move 6, Number of available options is: 2.0
+4
+Move 7, Number of available options is: 1.0
+5
+AI won in 7 moves
+4.431483268737793
+Move 1, Number of available options is: 32768.0
+11
+Move 2, Number of available options is: 5432.0
+20
+Move 3, Number of available options is: 1148.0
+11
+Move 4, Number of available options is: 188.0
+21
+Move 5, Number of available options is: 26.0
+5
+AI won in 5 moves
+3.279346466064453
+Move 1, Number of available options is: 32768.0
+1
+Move 2, Number of available options is: 2387.0
+1
+Move 3, Number of available options is: 289.0
+0
+Move 4, Number of available options is: 9.0
+5
+AI won in 4 moves
+2.210449457168579
+Move 1, Number of available options is: 32768.0
+1
+Move 2, Number of available options is: 1280.0
+12
+Move 3, Number of available options is: 122.0
+4
+Move 4, Number of available options is: 4.0
+23
+Move 5, Number of available options is: 1.0
+5
+AI won in 5 moves
+1.6893072128295898
+Move 1, Number of available options is: 32768.0
+10
+Move 2, Number of available options is: 7960.0
+10
+Move 3, Number of available options is: 1568.0
+20
+Move 4, Number of available options is: 252.0
+21
+Move 5, Number of available options is: 28.0
+11
+Move 6, Number of available options is: 2.0
+5
+AI won in 6 moves
+3.930396795272827
+Move 1, Number of available options is: 32768.0
+21
+Move 2, Number of available options is: 3510.0
+20
+Move 3, Number of available options is: 644.0
+11
+Move 4, Number of available options is: 127.0
+20
+Move 5, Number of available options is: 24.0
+21
+Move 6, Number of available options is: 3.0
+21
+Move 7, Number of available options is: 1.0
+5
+AI won in 7 moves
+2.4407386779785156
+Move 1, Number of available options is: 32768.0
+2
+Move 2, Number of available options is: 1796.0
+11
+Move 3, Number of available options is: 409.0
+12
+Move 4, Number of available options is: 28.0
+4
+Move 5, Number of available options is: 5.0
+13
+Move 6, Number of available options is: 2.0
+5
+AI won in 6 moves
+2.0083506107330322
+Move 1, Number of available options is: 32768.0
+11
+Move 2, Number of available options is: 5436.0
+30
+Move 3, Number of available options is: 1161.0
+12
+Move 4, Number of available options is: 67.0
+23
+Move 5, Number of available options is: 3.0
+41
+Move 6, Number of available options is: 1.0
+5
+AI won in 6 moves
+3.814507484436035
+Move 1, Number of available options is: 32768.0
+31
+Move 2, Number of available options is: 652.0
+30
+Move 3, Number of available options is: 129.0
+12
+Move 4, Number of available options is: 13.0
+5
+AI won in 4 moves
+1.6695597171783447
+Move 1, Number of available options is: 32768.0
+11
+Move 2, Number of available options is: 5432.0
+2
+Move 3, Number of available options is: 190.0
+1
+Move 4, Number of available options is: 79.0
+4
+Move 5, Number of available options is: 3.0
+3
+Move 6, Number of available options is: 1.0
+5
+AI won in 6 moves
+3.2967541217803955
+Move 1, Number of available options is: 32768.0
+10
+Move 2, Number of available options is: 7105.0
+10
+Move 3, Number of available options is: 1297.0
+12
+Move 4, Number of available options is: 96.0
+11
+Move 5, Number of available options is: 15.0
+11
+Move 6, Number of available options is: 3.0
+5
+AI won in 6 moves
+4.157409429550171
+Move 1, Number of available options is: 32768.0
+30
+Move 2, Number of available options is: 3095.0
+20
+Move 3, Number of available options is: 510.0
+2
+Move 4, Number of available options is: 22.0
+23
+Move 5, Number of available options is: 3.0
+5
+AI won in 5 moves
+2.545060396194458
+Move 1, Number of available options is: 32768.0
+10
+Move 2, Number of available options is: 5196.0
+10
+Move 3, Number of available options is: 725.0
+30
+Move 4, Number of available options is: 77.0
+12
+Move 5, Number of available options is: 13.0
+12
+Move 6, Number of available options is: 2.0
+32
+Move 7, Number of available options is: 1.0
+5
+AI won in 7 moves
+2.6950511932373047
+Move 1, Number of available options is: 32768.0
+20
+Move 2, Number of available options is: 7051.0
+21
+Move 3, Number of available options is: 831.0
+11
+Move 4, Number of available options is: 135.0
+2
+Move 5, Number of available options is: 26.0
+22
+Move 6, Number of available options is: 3.0
+5
+AI won in 6 moves
+4.304872274398804
+Move 1, Number of available options is: 32768.0
+12
+Move 2, Number of available options is: 1650.0
+2
+Move 3, Number of available options is: 243.0
+11
+Move 4, Number of available options is: 46.0
+11
+Move 5, Number of available options is: 13.0
+23
+Move 6, Number of available options is: 2.0
+5
+AI won in 6 moves
+1.9267773628234863
+Move 1, Number of available options is: 32768.0
+20
+Move 2, Number of available options is: 7051.0
+5
+AI won in 2 moves
+4.379859447479248
+Move 1, Number of available options is: 32768.0
+30
+Move 2, Number of available options is: 5610.0
+21
+Move 3, Number of available options is: 927.0
+30
+Move 4, Number of available options is: 213.0
+11
+Move 5, Number of available options is: 20.0
+20
+Move 6, Number of available options is: 4.0
+4
+Move 7, Number of available options is: 1.0
+5
+AI won in 7 moves
+3.5901308059692383
+Move 1, Number of available options is: 32768.0
+10
+Move 2, Number of available options is: 7105.0
+10
+Move 3, Number of available options is: 215.0
+1
+Move 4, Number of available options is: 8.0
+5
+AI won in 4 moves
+3.3444161415100098
+Move 1, Number of available options is: 32768.0
+10
+Move 2, Number of available options is: 7105.0
+20
+Move 3, Number of available options is: 1363.0
+11
+Move 4, Number of available options is: 262.0
+20
+Move 5, Number of available options is: 36.0
+11
+Move 6, Number of available options is: 6.0
+40
+Move 7, Number of available options is: 1.0
+5
+AI won in 7 moves
+4.356876373291016
+Move 1, Number of available options is: 32768.0
+11
+Move 2, Number of available options is: 4880.0
+10
+Move 3, Number of available options is: 1038.0
+10
+Move 4, Number of available options is: 183.0
+0
+Move 5, Number of available options is: 34.0
+11
+Move 6, Number of available options is: 2.0
+23
+Move 7, Number of available options is: 1.0
+5
+AI won in 7 moves
+3.5587804317474365
+Move 1, Number of available options is: 32768.0
+20
+Move 2, Number of available options is: 7051.0
+0
+Move 3, Number of available options is: 707.0
+2
+Move 4, Number of available options is: 208.0
+3
+Move 5, Number of available options is: 12.0
+12
+Move 6, Number of available options is: 2.0
+3
+Move 7, Number of available options is: 1.0
+5
+AI won in 7 moves
+4.868627071380615
+Move 1, Number of available options is: 32768.0
+20
+Move 2, Number of available options is: 4962.0
+20
+Move 3, Number of available options is: 829.0
+30
+Move 4, Number of available options is: 20.0
+32
+Move 5, Number of available options is: 4.0
+5
+AI won in 5 moves
+4.398973703384399
+Move 1, Number of available options is: 32768.0
+20
+Move 2, Number of available options is: 7051.0
+10
+Move 3, Number of available options is: 1364.0
+20
+Move 4, Number of available options is: 287.0
+21
+Move 5, Number of available options is: 25.0
+20
+Move 6, Number of available options is: 10.0
+11
+Move 7, Number of available options is: 3.0
+4
+Move 8, Number of available options is: 1.0
+5
+AI won in 8 moves
+5.071302890777588
+Move 1, Number of available options is: 32768.0
+21
+Move 2, Number of available options is: 4680.0
+11
+Move 3, Number of available options is: 706.0
+10
+Move 4, Number of available options is: 127.0
+2
+Move 5, Number of available options is: 4.0
+13
+Move 6, Number of available options is: 1.0
+5
+AI won in 6 moves
+3.047391176223755
+Move 1, Number of available options is: 32768.0
+21
+Move 2, Number of available options is: 3510.0
+20
+Move 3, Number of available options is: 731.0
+31
+Move 4, Number of available options is: 53.0
+12
+Move 5, Number of available options is: 4.0
+41
+Move 6, Number of available options is: 1.0
+5
+AI won in 6 moves
+3.040282964706421
+Move 1, Number of available options is: 32768.0
+21
+Move 2, Number of available options is: 3510.0
+20
+Move 3, Number of available options is: 838.0
+12
+Move 4, Number of available options is: 68.0
+22
+Move 5, Number of available options is: 5.0
+41
+Move 6, Number of available options is: 1.0
+5
+AI won in 6 moves
+2.890357494354248
+Move 1, Number of available options is: 32768.0
+21
+Move 2, Number of available options is: 1892.0
+12
+Move 3, Number of available options is: 197.0
+31
+Move 4, Number of available options is: 28.0
+23
+Move 5, Number of available options is: 2.0
+5
+AI won in 5 moves
+1.9740138053894043
+Move 1, Number of available options is: 32768.0
+2
+Move 2, Number of available options is: 1523.0
+12
+Move 3, Number of available options is: 195.0
+1
+Move 4, Number of available options is: 38.0
+20
+Move 5, Number of available options is: 5.0
+4
+Move 6, Number of available options is: 2.0
+4
+Move 7, Number of available options is: 1.0
+5
+AI won in 7 moves
+2.1158580780029297
+Move 1, Number of available options is: 32768.0
+21
+Move 2, Number of available options is: 3510.0
+2
+Move 3, Number of available options is: 217.0
+1
+Move 4, Number of available options is: 13.0
+4
+Move 5, Number of available options is: 2.0
+5
+AI won in 5 moves
+3.0877647399902344
+Move 1, Number of available options is: 32768.0
+20
+Move 2, Number of available options is: 7070.0
+31
+Move 3, Number of available options is: 332.0
+21
+Move 4, Number of available options is: 99.0
+31
+Move 5, Number of available options is: 8.0
+30
+Move 6, Number of available options is: 3.0
+40
+Move 7, Number of available options is: 1.0
+5
+AI won in 7 moves
+3.6914281845092773
+Move 1, Number of available options is: 32768.0
+0
+Move 2, Number of available options is: 1024.0
+13
+Move 3, Number of available options is: 32.0
+13
+Move 4, Number of available options is: 2.0
+5
+AI won in 4 moves
+1.6531860828399658
